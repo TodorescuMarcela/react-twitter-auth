@@ -30,7 +30,7 @@
   "peerDependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "prop-types": "^17.0.0"
+    "prop-types": "^15.8.1"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
