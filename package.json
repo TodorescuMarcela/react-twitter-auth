@@ -28,9 +28,9 @@
     "url": "https://github.com/GenFirst/react-twitter-auth/issues"
   },
   "peerDependencies": {
-    "react": "> 15.5.0 < 17",
-    "react-dom": "> 15.5.0 < 17",
-    "prop-types": "> 15.5.0 < 17"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "prop-types": "^17.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
@@ -44,21 +44,21 @@
     "chai": "^4.1.2",
     "coveralls": "^2.13.1",
     "cross-env": "5.0.5",
-    "enzyme": "^2.9.1",
+    "enzyme": "^3.11.0",
     "eslint": "4.5.0",
     "eslint-config-airbnb": "15.1.0",
     "eslint-plugin-babel": "4.1.2",
     "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "7.3.0",
     "jest": "^21.1.0",
-    "react": "^15.5.4",
+    "react": "^17.0.0",
     "react-addons-test-utils": "^15.6.0",
-    "react-dom": "^15.5.0",
+    "react-dom": "^17.0.0",
     "webpack": "3.5.5"
   },
   "dependencies": {
-    "react-icons": "^2.2.5",
+    "react-icons": "^4.0.0",
     "url-search-params-polyfill": "^2.0.0",
     "whatwg-fetch": "2.0.3"
   }
